@@ -11,7 +11,7 @@ int solution(vector<vector<string>> clothes) {
     unordered_map<string, int> category;
 
     // 옷 종류 별 분류
-    for(vector<string> cloth : clothes)
+    for(const vector<string>& cloth : clothes)
     {
         string key = cloth.back();
         // 새 항목이라면
@@ -29,6 +29,7 @@ int solution(vector<vector<string>> clothes) {
     {
         answer *= cnt.second;
     }
+    // 모두 안입는 케이스 1 제외
     answer--;
     return answer;
 }
