@@ -1,0 +1,27 @@
+﻿  TargetNumber.cpp
+C:\Users\user\Documents\GitHub\Coding-Test-Report\Coding Test Project\TargetNumber\TargetNumber.cpp(18,5): error C2664: 'void method(const std::vector<int,std::allocator<int>> &,int &,int &,const int &)': 인수 2을(를) 'int'에서 'int &'(으)로 변환할 수 없습니다.
+  C:\Users\user\Documents\GitHub\Coding-Test-Report\Coding Test Project\TargetNumber\TargetNumber.cpp(9,6):
+  'method' 선언을 참조하십시오.
+  C:\Users\user\Documents\GitHub\Coding-Test-Report\Coding Test Project\TargetNumber\TargetNumber.cpp(18,5):
+  인수 목록 '(const std::vector<int,std::allocator<int>>, int, _Ty, const int)'을(를) 일치시키는 동안
+          with
+          [
+              _Ty=int
+          ]
+  
+C:\Users\user\Documents\GitHub\Coding-Test-Report\Coding Test Project\TargetNumber\TargetNumber.cpp(19,5): error C2664: 'void method(const std::vector<int,std::allocator<int>> &,int &,int &,const int &)': 인수 2을(를) 'int'에서 'int &'(으)로 변환할 수 없습니다.
+  C:\Users\user\Documents\GitHub\Coding-Test-Report\Coding Test Project\TargetNumber\TargetNumber.cpp(9,6):
+  'method' 선언을 참조하십시오.
+  C:\Users\user\Documents\GitHub\Coding-Test-Report\Coding Test Project\TargetNumber\TargetNumber.cpp(19,5):
+  인수 목록 '(const std::vector<int,std::allocator<int>>, int, _Ty, const int)'을(를) 일치시키는 동안
+          with
+          [
+              _Ty=int
+          ]
+  
+C:\Users\user\Documents\GitHub\Coding-Test-Report\Coding Test Project\TargetNumber\TargetNumber.cpp(23,5): error C2664: 'void method(const std::vector<int,std::allocator<int>> &,int &,int &,const int &)': 인수 2을(를) 'int'에서 'int &'(으)로 변환할 수 없습니다.
+  C:\Users\user\Documents\GitHub\Coding-Test-Report\Coding Test Project\TargetNumber\TargetNumber.cpp(9,6):
+  'method' 선언을 참조하십시오.
+  C:\Users\user\Documents\GitHub\Coding-Test-Report\Coding Test Project\TargetNumber\TargetNumber.cpp(23,5):
+  인수 목록 '(std::vector<int,std::allocator<int>>, int, int, int)'을(를) 일치시키는 동안
+  
