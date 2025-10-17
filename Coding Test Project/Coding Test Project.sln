@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CLoths", "Coding Test Proje
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TargetNumber", "TargetNumber\TargetNumber.vcxproj", "{9A8F2936-CD03-435D-BDC6-BE0A137DCFF9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InterceptSystem", "InterceptSystem\InterceptSystem.vcxproj", "{28E28375-FC4F-4A39-8A27-07DB67056BAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{9A8F2936-CD03-435D-BDC6-BE0A137DCFF9}.Release|x64.Build.0 = Release|x64
 		{9A8F2936-CD03-435D-BDC6-BE0A137DCFF9}.Release|x86.ActiveCfg = Release|Win32
 		{9A8F2936-CD03-435D-BDC6-BE0A137DCFF9}.Release|x86.Build.0 = Release|Win32
+		{28E28375-FC4F-4A39-8A27-07DB67056BAB}.Debug|x64.ActiveCfg = Debug|x64
+		{28E28375-FC4F-4A39-8A27-07DB67056BAB}.Debug|x64.Build.0 = Debug|x64
+		{28E28375-FC4F-4A39-8A27-07DB67056BAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{28E28375-FC4F-4A39-8A27-07DB67056BAB}.Debug|x86.Build.0 = Debug|Win32
+		{28E28375-FC4F-4A39-8A27-07DB67056BAB}.Release|x64.ActiveCfg = Release|x64
+		{28E28375-FC4F-4A39-8A27-07DB67056BAB}.Release|x64.Build.0 = Release|x64
+		{28E28375-FC4F-4A39-8A27-07DB67056BAB}.Release|x86.ActiveCfg = Release|Win32
+		{28E28375-FC4F-4A39-8A27-07DB67056BAB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
